@@ -14,8 +14,8 @@
  * limitations under the License.
  */
 
-description = "A Reactive Streams implementation of the MongoDB Java driver"
-archivesBaseName = 'mongodb-driver-reactivestreams'
+//description = "A Reactive Streams implementation of the MongoDB Java driver"
+//archivesBaseName = 'mongodb-driver-reactivestreams'
 
 dependencies {
     api project(path: ':bson', configuration: 'default')
